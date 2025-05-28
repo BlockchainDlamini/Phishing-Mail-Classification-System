@@ -2,15 +2,6 @@
 
 An intelligent email security solution that leverages machine learning to identify and classify phishing emails with high accuracy and explainable AI features.
 
-## Features
-
-- **Advanced AI Detection**: DistilBERT-based model achieving 92.59% accuracy
-- **Real-time Analysis**: Process emails at 61.62 samples/second
-- **Explainable AI**: Detailed explanations for classification decisions
-- **Multi-format Support**: Handles .eml email formats
-- **RESTful API**: Django-based backend with clean API endpoints
-- **Comprehensive Analysis**: Examines email content, headers, URLs, and metadata
-
 ## Performance Metrics
 
 - **Accuracy**: 92.59%
@@ -140,11 +131,3 @@ The model was trained over 4 epochs with the following progression:
 
 ## Acknowledgments
 
-- DistilBERT model by Hugging Face
-- Django REST Framework
-- Academic research in phishing detection
-- COS720 Advanced Topics in Computer Science
-
----
-
-*This project was developed as part of the COS720 Advanced Topics in Computer Science course, focusing on AI-powered cybersecurity solutions.*
