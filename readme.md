@@ -8,7 +8,6 @@ An intelligent email security solution that leverages machine learning to identi
 - **Precision**: 93.42%
 - **Recall**: 94.78%
 - **False Positive Rate**: 11.02%
-- **Processing Speed**: 61.62 samples/second
 
 ## Architecture
 
