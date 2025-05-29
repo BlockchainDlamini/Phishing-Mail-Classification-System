@@ -1,6 +1,6 @@
 # AI Phishing Detection System
 
-An intelligent email security solution that leverages machine learning to identify and classify phishing emails with high accuracy and explainable AI features.
+An email security solution that leverages machine learning to identify and classify phishing emails with high accuracy and explainable AI features.
 
 ## Performance Metrics
 
@@ -24,7 +24,6 @@ The system follows a modular architecture with clear separation of concerns:
 - **Machine Learning**: DistilBERT, Transformers, PyTorch
 - **Data Processing**: Pandas, NumPy, Scikit-learn
 - **API**: RESTful web services
-- **File Handling**: Email parsing (.eml format)
 
 ## Acknolewdgements
 
@@ -38,5 +37,5 @@ No changes were made to the original dataset.
 
 **Fine-tuned Model**:
 1. **Tony Kiplagat Cheptoo**. *A distilBERT based Phishing Email Detection Model*.  
-Available at: [https://huggingface.co/cybersectony/phishing-email-detection-distilbert_v2.4.1](https://huggingface.co/cybersectony/phishing-email-detection-distilbert_v2.4.1) Author profile: [https://huggingface.co/cybersectony](https://huggingface.co/cybersectony)
+Available at: [https://huggingface.co/cybersectony/phishing-email-detection-distilbert_v2.4.1](https://huggingface.co/cybersectony/phishing-email-detection-distilbert_v2.4.1), Author profile: [https://huggingface.co/cybersectony](https://huggingface.co/cybersectony)
 
