@@ -1,4 +1,4 @@
-# Phishing Mail Classiifcation System
+# Phishing Mail Classifcation System
 An email security solution that leverages machine learning to identify and classify phishing emails with high accuracy and explainable AI features.
 
 ## Performance Metrics
