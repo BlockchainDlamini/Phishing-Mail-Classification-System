@@ -23,11 +23,10 @@ The system follows a modular architecture with clear separation of concerns:
 - **Backend**: Django, Django REST Framework
 - **Machine Learning**: DistilBERT, Transformers, PyTorch
 - **Data Processing**: Pandas, NumPy, Scikit-learn
-- **API**: RESTful web services
 
 ## Acknolewdgements
 
-**Datasets**:.
+**Datasets**:
 1. Naser Abdullah Alam. (2024). Phishing Email Dataset [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DS/5074342
 2. **Al-Subaiey, A., Al-Thani, M., Alam, N. A., Antora, K. F., Khandakar, A., & Zaman, S. A. U.** (2024, May 19). *Novel Interpretable and Robust Web-based AI Platform for Phishing Email Detection*. ArXiv.org.  
    Available at: [https://arxiv.org/abs/2405.11619](https://arxiv.org/abs/2405.11619)
